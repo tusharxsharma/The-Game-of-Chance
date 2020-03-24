@@ -26,7 +26,7 @@ void input_name();
 void print_cards(char *,char *, int);
 int take_wager(int, int);
 void play_the_game();
-int pick_a_number();
+int pick_a_number(); 
 int dealer_no_match();
 int find_the_ace();
 void fatal(char *);
