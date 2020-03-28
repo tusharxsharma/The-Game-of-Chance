@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<fcntl.h>
+#include<graphics.h>
 #include<sys/stat.h>
 #include<time.h>
 #include<stdlib.h>
