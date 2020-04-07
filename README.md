@@ -7,3 +7,6 @@
 	5. - Change your user name
 	6. - Reset your account at 100 credits
 	7. - Quit
+## Discription :- 
+* Download the game.exe file to run the Game of Chance. 
+* To view the code , simply download the game.cpp file given in the Repository 
