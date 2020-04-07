@@ -23,7 +23,7 @@ void register_new_player();
 void update_player_data();
 void show_highscore();
 void jackpot();
-void input_name();
+void input_name(); 
 void print_cards(char *,char *, int);
 int take_wager(int, int);
 void play_the_game(); 
